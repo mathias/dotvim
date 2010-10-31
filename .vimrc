@@ -61,4 +61,4 @@ map <C-S-Tab> :bprevious<cr>
 
 call pathogen#runtime_append_all_bundles()
 
-colors wombat
+colors wombat_mod
